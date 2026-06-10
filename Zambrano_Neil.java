@@ -1,13 +1,5 @@
-package assingment2;
-/* Neil Zambrano
- * 5655530/ne843347
- * Assingment 2
- * March 3
- * Main function creates a random die that will roll for 1000 times.
- * After the roll are added to an array then it will print the amount
- * of times each face value of the dice. It will put a star depending on
- * the amount of times it was rolled.
- */
+package simulation;
+
 public class Zambrano_Neil {
 	public static void main(String[] args) {
 		
