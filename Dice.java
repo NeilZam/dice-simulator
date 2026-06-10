@@ -1,4 +1,4 @@
-package assingment2;
+package simulation;
 
 public class Dice {
 	
