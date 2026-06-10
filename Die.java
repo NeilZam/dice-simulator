@@ -1,4 +1,4 @@
-package assingment2;
+package simulation;
 import java.util.Random;
 
 public class Die {
